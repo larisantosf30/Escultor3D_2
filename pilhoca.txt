@@ -1,0 +1,16 @@
+dim 50 50 50
+putbox 0 20 0 10 0 20 1 1 1 1
+putbox 7 13 40 43 7 13 0.50 0.50 0.50 1
+putbox 0 20 10 40 0 20 0 1 0 1
+putellipsoid 5 31 0 3 4 3 0 0 0 1
+putellipsoid 14 31 0 3 4 3 0 0 0 1 
+putvoxel 6 31 0 1 1 1 1
+putvoxel 6 32 0 1 1 1 1
+putvoxel 15 31 0 1 1 1 1
+putvoxel 15 32 0 1 1 1 1
+putvoxel 7 23 0 0 0 0 1
+putvoxel 8 22 0 0 0 0 1
+putvoxel 9 21 0 0 0 0 1
+putvoxel 10 21 0 0 0 0 1
+putvoxel 11 22 0 0 0 0 1
+putvoxel 12 23 0 0 0 0 1
